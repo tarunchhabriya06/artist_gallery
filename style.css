@@ -1,0 +1,31 @@
+/* Your CSS Code here. */
+body {
+    height: 125vh;
+    /* background-image: url('https://codetheweb.blog/assets/img/posts/style-a-navigation-bar-css/background.jpg'); */
+    background-color: rgb(28, 28, 28);
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 80px;
+    padding: 30px;
+}
+
+main {
+    color: white;
+}
+
+header h1 {
+    margin-left: 40px;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 20px;
+}
+
+header li a {
+    color: black;
+    text-decoration: none;
+}
